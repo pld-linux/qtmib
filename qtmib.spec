@@ -4,7 +4,7 @@ Version:	1.1.1
 Release:	1
 License:	GPL v2
 Group:		Networking/Utilities
-Source0:	http://downloads.sourceforge.net/qpdf/%{name}-%{version}.tar.bz2
+Source0:	http://downloads.sourceforge.net/qtmib/%{name}-%{version}.tar.bz2
 # Source0-md5:	1715ae9c88e1f0d355f9a93b3248455e
 URL:		http://qtmib.sourceforge.net/
 BuildRequires:	QtGui-devel
